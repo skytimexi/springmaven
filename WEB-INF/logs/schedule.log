@@ -1,0 +1,64 @@
+2018-01-26 10:50:29  [ main:0 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-context.xml]
+2018-01-26 10:50:29  [ main:200 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-datasourse.xml]
+2018-01-26 10:50:29  [ main:216 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-service.xml]
+2018-01-26 10:50:29  [ main:232 ] - [ INFO ]  Refreshing org.springframework.context.support.GenericXmlApplicationContext@5e91993f: startup date [Fri Jan 26 10:50:29 CST 2018]; root of context hierarchy
+2018-01-26 10:50:29  [ main:401 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.mybatis.spring.mapper.MapperScannerConfigurer#0' defined in file [D:\springmaven\target\classes\spring\spring-datasourse.xml]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'basePackage' is required
+2018-01-26 10:50:45  [ main:0 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-context.xml]
+2018-01-26 10:50:46  [ main:197 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-datasourse.xml]
+2018-01-26 10:50:46  [ main:212 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-service.xml]
+2018-01-26 10:50:46  [ main:228 ] - [ INFO ]  Refreshing org.springframework.context.support.GenericXmlApplicationContext@5e91993f: startup date [Fri Jan 26 10:50:46 CST 2018]; root of context hierarchy
+2018-01-26 10:50:46  [ main:444 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.mybatis.spring.mapper.MapperScannerConfigurer#0' defined in file [D:\springmaven\target\classes\spring\spring-datasourse.xml]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'basePackage' is required
+2018-01-26 10:52:19  [ main:0 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-context.xml]
+2018-01-26 10:52:19  [ main:233 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-datasourse.xml]
+2018-01-26 10:52:19  [ main:233 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-service.xml]
+2018-01-26 10:52:19  [ main:269 ] - [ INFO ]  Refreshing org.springframework.context.support.GenericXmlApplicationContext@5e91993f: startup date [Fri Jan 26 10:52:19 CST 2018]; root of context hierarchy
+2018-01-26 10:52:20  [ main:418 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.mybatis.spring.mapper.MapperScannerConfigurer#0' defined in file [D:\springmaven\target\classes\spring\spring-datasourse.xml]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'basePackage' is required
+2018-01-26 10:55:31  [ main:0 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-context.xml]
+2018-01-26 10:55:32  [ main:229 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-datasourse.xml]
+2018-01-26 10:55:32  [ main:229 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-service.xml]
+2018-01-26 10:55:32  [ main:260 ] - [ INFO ]  Refreshing org.springframework.context.support.GenericXmlApplicationContext@5e91993f: startup date [Fri Jan 26 10:55:32 CST 2018]; root of context hierarchy
+2018-01-26 10:55:32  [ main:445 ] - [ WARN ]  No MyBatis mapper was found in '[com.xi.myspring.dao]' package. Please check your configuration.
+2018-01-26 10:55:32  [ main:477 ] - [ INFO ]  Loading properties file from class path resource [jdbc.properties]
+2018-01-26 11:00:11  [ main:0 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-context.xml]
+2018-01-26 11:00:11  [ main:232 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-datasourse.xml]
+2018-01-26 11:00:11  [ main:253 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-service.xml]
+2018-01-26 11:00:11  [ main:254 ] - [ INFO ]  Refreshing org.springframework.context.support.GenericXmlApplicationContext@5e91993f: startup date [Fri Jan 26 11:00:11 CST 2018]; root of context hierarchy
+2018-01-26 11:00:12  [ main:455 ] - [ WARN ]  No MyBatis mapper was found in '[com.xi.myspring.dao]' package. Please check your configuration.
+2018-01-26 11:00:12  [ main:470 ] - [ INFO ]  Loading properties file from class path resource [jdbc.properties]
+2018-01-26 11:03:40  [ main:0 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-context.xml]
+2018-01-26 11:03:40  [ main:250 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-datasourse.xml]
+2018-01-26 11:03:40  [ main:250 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-service.xml]
+2018-01-26 11:03:40  [ main:266 ] - [ INFO ]  Refreshing org.springframework.context.support.GenericXmlApplicationContext@5e91993f: startup date [Fri Jan 26 11:03:40 CST 2018]; root of context hierarchy
+2018-01-26 11:03:40  [ main:447 ] - [ WARN ]  No MyBatis mapper was found in '[com.xi.myspring.dao]' package. Please check your configuration.
+2018-01-26 11:03:40  [ main:479 ] - [ INFO ]  Loading properties file from class path resource [jdbc.properties]
+2018-01-26 11:12:10  [ main:0 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-context.xml]
+2018-01-26 11:12:11  [ main:253 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-datasourse.xml]
+2018-01-26 11:12:11  [ main:261 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-service.xml]
+2018-01-26 11:12:11  [ main:281 ] - [ INFO ]  Refreshing org.springframework.context.support.GenericXmlApplicationContext@379619aa: startup date [Fri Jan 26 11:12:11 CST 2018]; root of context hierarchy
+2018-01-26 11:12:11  [ main:488 ] - [ WARN ]  No MyBatis mapper was found in '[com.xi.myspring.dao]' package. Please check your configuration.
+2018-01-26 11:12:11  [ main:511 ] - [ INFO ]  Loading properties file from class path resource [jdbc.properties]
+2018-01-26 11:14:09  [ main:0 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-context.xml]
+2018-01-26 11:14:09  [ main:269 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-datasourse.xml]
+2018-01-26 11:14:09  [ main:269 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-service.xml]
+2018-01-26 11:14:09  [ main:284 ] - [ INFO ]  Refreshing org.springframework.context.support.GenericXmlApplicationContext@c2e1f26: startup date [Fri Jan 26 11:14:09 CST 2018]; root of context hierarchy
+2018-01-26 11:14:09  [ main:432 ] - [ WARN ]  No MyBatis mapper was found in '[com.xi.myspring.dao]' package. Please check your configuration.
+2018-01-26 11:14:09  [ main:432 ] - [ INFO ]  Loading properties file from class path resource [jdbc.properties]
+2018-01-26 11:14:10  [ main:731 ] - [ INFO ]  Mapped "{[/test/xi/exec],methods=[POST]}" onto public java.lang.String com.xi.myspring.web.controller.TestController.query(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+2018-01-26 11:14:10  [ main:1069 ] - [ INFO ]  Looking for @ControllerAdvice: org.springframework.context.support.GenericXmlApplicationContext@c2e1f26: startup date [Fri Jan 26 11:14:09 CST 2018]; root of context hierarchy
+2018-01-26 11:14:10  [ main:1135 ] - [ INFO ]  Looking for @ControllerAdvice: org.springframework.context.support.GenericXmlApplicationContext@c2e1f26: startup date [Fri Jan 26 11:14:09 CST 2018]; root of context hierarchy
+2018-01-26 11:14:10  [ main:1201 ] - [ INFO ]  Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2018-01-26 11:14:10  [ main:1248 ] - [ INFO ]  MLog clients using log4j logging.
+2018-01-26 11:14:11  [ main:1998 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-01-26 11:14:11  [ main:2419 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'transactionManager' defined in file [D:\springmaven\target\classes\spring\spring-service.xml]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'dataSource' is required
+2018-01-26 11:15:35  [ main:0 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-context.xml]
+2018-01-26 11:15:35  [ main:171 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-datasourse.xml]
+2018-01-26 11:15:35  [ main:187 ] - [ INFO ]  Loading XML bean definitions from file [D:\springmaven\target\classes\spring\spring-service.xml]
+2018-01-26 11:15:35  [ main:207 ] - [ INFO ]  Refreshing org.springframework.context.support.GenericXmlApplicationContext@c2e1f26: startup date [Fri Jan 26 11:15:35 CST 2018]; root of context hierarchy
+2018-01-26 11:15:35  [ main:337 ] - [ WARN ]  No MyBatis mapper was found in '[com.xi.myspring.dao]' package. Please check your configuration.
+2018-01-26 11:15:35  [ main:352 ] - [ INFO ]  Loading properties file from class path resource [jdbc.properties]
+2018-01-26 11:15:35  [ main:599 ] - [ INFO ]  Mapped "{[/test/xi/exec],methods=[POST]}" onto public java.lang.String com.xi.myspring.web.controller.TestController.query(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+2018-01-26 11:15:35  [ main:822 ] - [ INFO ]  Looking for @ControllerAdvice: org.springframework.context.support.GenericXmlApplicationContext@c2e1f26: startup date [Fri Jan 26 11:15:35 CST 2018]; root of context hierarchy
+2018-01-26 11:15:35  [ main:869 ] - [ INFO ]  Looking for @ControllerAdvice: org.springframework.context.support.GenericXmlApplicationContext@c2e1f26: startup date [Fri Jan 26 11:15:35 CST 2018]; root of context hierarchy
+2018-01-26 11:15:35  [ main:922 ] - [ INFO ]  Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2018-01-26 11:15:36  [ main:968 ] - [ INFO ]  MLog clients using log4j logging.
+2018-01-26 11:15:36  [ main:1915 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
